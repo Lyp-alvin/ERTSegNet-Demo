@@ -56,7 +56,7 @@ Before running the code, ensure your final directory structure looks exactly lik
 ```text
 ERTSegNet-Demo/
 ├── Checkpoints/
-│   └── ERTSegNet_best.pth      <-- Downloaded from Releases
+│   └── ERTSegNet.pth      <-- Downloaded from Releases
 ├── Mini Dataset/               <-- Created manually
 │   ├── Labels/                 <-- Moved from root
 │   └── Inputs/                 <-- Created manually
