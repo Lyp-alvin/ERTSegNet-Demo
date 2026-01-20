@@ -63,7 +63,6 @@ ERTSegNet-Demo/
 │       ├── small/              <-- Moved from root
 │       ├── middle/             <-- Moved from root
 │       └── large/              <-- Moved from root
-├── mamba/                      <-- Cloned during installation (can be ignored)
 ├── model.py
 ├── demo.py
 └── README.md
