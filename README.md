@@ -8,7 +8,7 @@ This repository contains the official implementation and minimal demonstration f
 * `demo.py`: The script to run inference and reproduce the quantitative metrics.
 * **Validation Data**: The dataset folders (`Labels`, `small`, `middle`, `large`) are currently located in the root directory and need to be organized (see instructions below).
 
-> **Note:** The pre-trained model weights are hosted in the **[Releases](../../releases)** section due to file size limits.
+> **Note:** The model weights are hosted in the **[Releases](../../releases)** section due to file size limits.
 
 ##  Environment Setup (Important)
 The model relies on **VMamba** and requires a robust CUDA environment. Please follow the steps below to set up the environment using Conda to ensure successful compilation of CUDA kernels.
